@@ -1,0 +1,5 @@
+codex 특강
+install superpowers
+k-skill 깃허브 연동하면 금융권에서 좋음
+	자연어로 ex) NomaDamas/k-skill을 활용해서 k-dart데이터 연동해줘
+			  k dart로 삼성전자 재무제표 보여줘 
